@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takapiya/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takapiya/portfolio/issues"
+  },
+  "homepage": "https://github.com/takapiya/portfolio#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "nuxt-sass-resources-loader": "^1.2.0",
+    "sass-loader": "^6.0.7"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "nuxt": "^1.4.0"
+  }
+}
