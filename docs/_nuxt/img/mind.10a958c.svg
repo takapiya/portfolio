@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1834px" height="649px" viewBox="0 0 1834 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M666,124 L902,124 C903.104569,124 904,124.895431 904,126 L904,550 C904,551.104569 903.104569,552 902,552 L666,552 C664.895431,552 664,551.104569 664,550 L664,126 C664,124.895431 664.895431,124 666,124 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="240" height="428" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M289,271.490999 L290.864381,271.605425 L326.505161,284.747119 L334.829532,343.755942 L324.242924,407.226383 L316.054647,407.226383 L317.744977,350.247495 L311.648547,309.110982 L309.125252,374.517282 L309.125252,539.509285 L324.242924,561.86074 L290.864381,546.609442 L285.816514,390.414773 L281.829532,390.414773 L277.013018,390.414773 L271.965151,546.609442 L238.586608,561.86074 L253.70428,539.509285 L253.70428,374.517282 L251.180985,309.110982 L245.084555,350.247495 L246.774885,407.226383 L238.586608,407.226383 L228,343.755942 L236.324371,284.747119 L271.965151,271.605425 L275,271.419161 L275,266.508529 C267.9893,263.165973 263,254.573118 263,244.5 C263,231.521308 271.282732,221 281.5,221 C291.717268,221 300,231.521308 300,244.5 C300,254.087262 295.48039,262.333611 289,265.988644 L289,271.490999 Z" id="Combined-Shape" fill="#1DC6DE"></path>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="3" x="57.5" y="123.5" width="173" height="90"></rect>
+        <rect id="Rectangle-2-Copy" stroke="#000000" stroke-width="3" x="331.5" y="125.5" width="283" height="90"></rect>
+        <rect id="Rectangle-2-Copy-3" stroke="#000000" stroke-width="3" x="1001.5" y="151.5" width="229" height="55"></rect>
+        <rect id="Rectangle-2-Copy-4" stroke="#000000" stroke-width="3" x="1001.5" y="488.5" width="229" height="55"></rect>
+        <use id="Rectangle-2-Copy-2" stroke="#000000" mask="url(#mask-2)" stroke-width="6" stroke-dasharray="3" xlink:href="#path-1"></use>
+        <text id="デザインでは、-同じ手法を適用しても-同" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" letter-spacing="4" fill="#4A4A4A">
+            <tspan x="346" y="155">デザインでは、</tspan>
+            <tspan x="346" y="177">同じ手法を適用しても</tspan>
+            <tspan x="346" y="199">同じ結果は得られない</tspan>
+        </text>
+        <text id="やってみて-わかる!" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="4.36363602" fill="#454545">
+            <tspan x="75.93091" y="165">やってみて</tspan>
+            <tspan x="97.204728" y="189">わかる!</tspan>
+        </text>
+        <text id="基本思想" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="3.63636327" fill="#454545">
+            <tspan x="417.227273" y="105">基本思想</tspan>
+        </text>
+        <text id="増やしていきたい" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="3.63636327" fill="#454545">
+            <tspan x="691.454547" y="103">増やしていきたい</tspan>
+        </text>
+        <text id="そのためにやりたい" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="3.63636327" fill="#454545">
+            <tspan x="1009.13637" y="104">そのためにやりたい</tspan>
+        </text>
+        <text id="個別具体的な経験" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="3.63636327" fill="#454545">
+            <tspan x="690.954547" y="156">個別具体的な経験</tspan>
+        </text>
+        <text id="働き方" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="3.63636327" fill="#454545">
+            <tspan x="106.045455" y="103">働き方</tspan>
+        </text>
+        <path d="M471,215 C495.625112,287 550.291778,323 635,323" id="Path-3" stroke="#000000" stroke-width="5"></path>
+        <polygon id="Triangle" fill="#000000" transform="translate(645.000000, 323.000000) rotate(90.000000) translate(-645.000000, -323.000000) " points="645 313 655 333 635 333"></polygon>
+        <g id="Group-2" transform="translate(826.000000, 169.000000)">
+            <path d="M0,10 C23.2737335,86.6666667 74.9404002,125 155,125" id="Path-3-Copy" stroke="#000000" stroke-width="5" transform="translate(77.500000, 67.500000) scale(1, -1) translate(-77.500000, -67.500000) "></path>
+            <polygon id="Triangle-Copy-2" fill="#000000" transform="translate(165.000000, 10.000000) rotate(90.000000) translate(-165.000000, -10.000000) " points="165 0 175 20 155 20"></polygon>
+        </g>
+        <g id="Group-2-Copy" transform="translate(913.500000, 462.500000) scale(1, -1) translate(-913.500000, -462.500000) translate(826.000000, 400.000000)">
+            <path d="M0,10 C23.2737335,86.6666667 74.9404002,125 155,125" id="Path-3-Copy" stroke="#000000" stroke-width="5" transform="translate(77.500000, 67.500000) scale(1, -1) translate(-77.500000, -67.500000) "></path>
+            <polygon id="Triangle-Copy-2" fill="#000000" transform="translate(165.000000, 10.000000) rotate(90.000000) translate(-165.000000, -10.000000) " points="165 0 175 20 155 20"></polygon>
+        </g>
+        <text id="だとしたら-何が必要なのか?" font-family="HiraginoSans-W4, Hiragino Sans" font-size="24" font-weight="normal" letter-spacing="4.363636" fill="#454545">
+            <tspan x="426.59091" y="342">だとしたら</tspan>
+            <tspan x="389.037456" y="366">何が必要なのか?</tspan>
+        </text>
+        <circle id="Oval-2-Copy-2" stroke="#E3E3E3" stroke-width="2" cx="784" cy="298" r="82"></circle>
+        <circle id="Oval-2-Copy-3" stroke="#E3E3E3" stroke-width="2" cx="784" cy="321" r="82"></circle>
+        <circle id="Oval-2-Copy-5" stroke="#E3E3E3" stroke-width="2" cx="784" cy="359" r="82"></circle>
+        <circle id="Oval-2" fill="#EAEAEA" cx="784" cy="264" r="82"></circle>
+        <text id="実践" font-family="HiraginoSans-W4, Hiragino Sans" font-size="26" font-weight="normal" letter-spacing="4.72727203" fill="#000000">
+            <tspan x="754.272728" y="275">実践</tspan>
+        </text>
+        <circle id="Oval-2-Copy" stroke="#C0BABA" stroke-width="3" fill="#FFFFFF" cx="784" cy="434" r="82"></circle>
+        <text id="デザイン知" font-family="HiraginoSans-W4, Hiragino Sans" font-size="26" font-weight="normal" letter-spacing="1.63" fill="#000000">
+            <tspan x="717.52" y="445">デザイン</tspan>
+            <tspan x="826.48" y="445">知</tspan>
+        </text>
+        <g id="Group" transform="translate(788.000000, 309.000000)">
+            <path d="M8,8 L8,59.52184" id="Path-4-Copy" stroke="#000000" stroke-width="5"></path>
+            <polygon id="Triangle-Copy" fill="#000000" points="8 0 16 16 0 16"></polygon>
+        </g>
+        <g id="Group-Copy" transform="translate(771.000000, 339.000000) scale(1, -1) translate(-771.000000, -339.000000) translate(763.000000, 309.000000)">
+            <path d="M8,8 L8,59.52184" id="Path-4-Copy" stroke="#000000" stroke-width="5"></path>
+            <polygon id="Triangle-Copy" fill="#000000" points="8 0 16 16 0 16"></polygon>
+        </g>
+        <g id="Group-Copy-5" transform="translate(1118.000000, 342.500000) scale(1, -1) translate(-1118.000000, -342.500000) translate(1110.000000, 228.000000)">
+            <path d="M8,14.4013179 L8,228.52184" id="Path-4-Copy" stroke="#000000" stroke-width="2"></path>
+            <polygon id="Triangle-Copy" fill="#000000" points="8 0 16 16 0 16"></polygon>
+        </g>
+        <g id="Group-Copy-2" transform="translate(281.000000, 166.000000) scale(1, -1) rotate(-90.000000) translate(-281.000000, -166.000000) translate(273.000000, 136.000000)">
+            <path d="M8,8 L8,59.52184" id="Path-4-Copy" stroke="#000000" stroke-width="5"></path>
+            <polygon id="Triangle-Copy" fill="#000000" points="8 0 16 16 0 16"></polygon>
+        </g>
+        <g id="Group-Copy-3" transform="translate(1303.000000, 518.000000) rotate(90.000000) translate(-1303.000000, -518.000000) translate(1295.000000, 450.000000)">
+            <path d="M8,8 L8,135.50098" id="Path-4-Copy" stroke="#000000" stroke-width="5"></path>
+            <polygon id="Triangle-Copy" fill="#000000" points="8 0 16 16 0 16"></polygon>
+        </g>
+        <g id="Group-Copy-4" transform="translate(1311.000000, 179.000000) rotate(90.000000) translate(-1311.000000, -179.000000) translate(1303.000000, 99.000000)">
+            <path d="M8,8 L8,159.520626" id="Path-4-Copy" stroke="#000000" stroke-width="5"></path>
+            <polygon id="Triangle-Copy" fill="#000000" points="8 0 16 16 0 16"></polygon>
+        </g>
+        <text id="だから" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="3.636363" fill="#454545">
+            <tspan x="248.545456" y="148">だから</tspan>
+        </text>
+        <ellipse id="Oval-3" fill="#EAEAEA" cx="1429" cy="245.5" rx="61" ry="44.5"></ellipse>
+        <ellipse id="Oval-3-Copy-4" fill="#EAEAEA" cx="1429" cy="515.5" rx="61" ry="44.5"></ellipse>
+        <text id="サービスのデザイン" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="3.636363" fill="#454545">
+            <tspan x="1012.03637" y="187">サービスのデザイン</tspan>
+        </text>
+        <text id="経験の言語化" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="3.636363" fill="#454545">
+            <tspan x="1047.09091" y="524">経験の言語化</tspan>
+        </text>
+        <text id="=デザイナーの価値" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.360000014" fill="#FF9300">
+            <tspan x="680.3" y="188">=デザイナーの価</tspan>
+            <tspan x="865.7" y="188">値</tspan>
+        </text>
+        <g id="Group-4" transform="translate(1381.000000, 67.000000)">
+            <path d="M50.9791546,53.158942 L51.8342989,53.2114263 L68.1818218,59.2391885 L72,86.3050407 L67.1441912,115.417324 L63.3884358,115.417324 L64.1637473,89.2825517 L61.3674695,70.4142755 L60.210098,100.414488 L60.210098,176.09214 L67.1441912,186.344186 L51.8342989,179.348802 L49.5189704,107.706264 L47.6902427,107.706264 L45.4810296,107.706264 L43.1657011,179.348802 L27.8558088,186.344186 L34.789902,176.09214 L34.789902,100.414488 L33.6325305,70.4142755 L30.8362527,89.2825517 L31.6115642,115.417324 L27.8558088,115.417324 L23,86.3050407 L26.8181782,59.2391885 L43.1657011,53.2114263 L44.5577093,53.125992 L44.5577093,50.8736092 C41.342079,49.3404637 39.0536133,45.3991388 39.0536133,40.7788547 C39.0536133,34.8258576 42.8526927,30 47.5390946,30 C52.2254966,30 56.024576,34.8258576 56.024576,40.7788547 C56.024576,45.1762887 53.9515454,48.9586804 50.9791546,50.6351514 L50.9791546,53.158942 Z" id="Combined-Shape" fill="#155FB2"></path>
+            <text id="ユーザー" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="3.636363" fill="#454545">
+                <tspan x="0.327274" y="18">ユーザー</tspan>
+            </text>
+        </g>
+        <text id="チームや-メンバー" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="3.636363" fill="#454545">
+            <tspan x="1387.22727" y="590">チームや</tspan>
+            <tspan x="1387.72727" y="610">メンバー</tspan>
+        </text>
+        <text id="自分" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="3.636363" fill="#454545">
+            <tspan x="255.363637" y="590">自分</tspan>
+        </text>
+        <g id="Group-3" transform="translate(1383.000000, 386.000000)">
+            <path d="M45.0607524,19.0878758 L45.7655725,19.131134 L59.2393956,24.0992873 L62.3863835,46.4072851 L58.3841681,70.4019758 L55.2886298,70.4019758 L55.9276507,48.8613851 L53.6229253,33.3099271 L52.6690059,58.0364597 L52.6690059,120.410882 L58.3841681,128.86074 L45.7655725,123.095061 L43.8572512,64.0464285 L42.3499921,64.0464285 L40.5291323,64.0464285 L38.620811,123.095061 L26.0022155,128.86074 L31.7173777,120.410882 L31.7173777,58.0364597 L30.7634582,33.3099271 L28.4587328,48.8613851 L29.0977538,70.4019758 L26.0022155,70.4019758 L22,46.4072851 L25.1469879,24.0992873 L38.620811,19.131134 L39.7681207,19.060718 L39.7681207,17.2042773 C37.1177599,15.9406405 35.2315793,12.6921535 35.2315793,8.88406037 C35.2315793,3.97752931 38.3628257,0 42.225414,0 C46.0880023,0 49.2192488,3.97752931 49.2192488,8.88406037 C49.2192488,12.5084778 47.5106323,15.6259702 45.0607524,17.0077375 L45.0607524,19.0878758 Z" id="Combined-Shape-Copy-2" fill-opacity="0.5" fill="#59C25F"></path>
+            <path d="M68.0607524,40.0878758 L68.7655725,40.131134 L82.2393956,45.0992873 L85.3863835,67.4072851 L81.3841681,91.4019758 L78.2886298,91.4019758 L78.9276507,69.8613851 L76.6229253,54.3099271 L75.6690059,79.0364597 L75.6690059,141.410882 L81.3841681,149.86074 L68.7655725,144.095061 L66.8572512,85.0464285 L65.3499921,85.0464285 L63.5291323,85.0464285 L61.620811,144.095061 L49.0022155,149.86074 L54.7173777,141.410882 L54.7173777,79.0364597 L53.7634582,54.3099271 L51.4587328,69.8613851 L52.0977538,91.4019758 L49.0022155,91.4019758 L45,67.4072851 L48.1469879,45.0992873 L61.620811,40.131134 L62.7681207,40.060718 L62.7681207,38.2042773 C60.1177599,36.9406405 58.2315793,33.6921535 58.2315793,29.8840604 C58.2315793,24.9775293 61.3628257,21 65.225414,21 C69.0880023,21 72.2192488,24.9775293 72.2192488,29.8840604 C72.2192488,33.5084778 70.5106323,36.6259702 68.0607524,38.0077375 L68.0607524,40.0878758 Z" id="Combined-Shape-Copy-3" fill="#00A8A8"></path>
+            <path d="M23.0607524,40.0878758 L23.7655725,40.131134 L37.2393956,45.0992873 L40.3863835,67.4072851 L36.3841681,91.4019758 L33.2886298,91.4019758 L33.9276507,69.8613851 L31.6229253,54.3099271 L30.6690059,79.0364597 L30.6690059,141.410882 L36.3841681,149.86074 L23.7655725,144.095061 L21.8572512,85.0464285 L20.3499921,85.0464285 L18.5291323,85.0464285 L16.620811,144.095061 L4.00221547,149.86074 L9.71737766,141.410882 L9.71737766,79.0364597 L8.76345822,54.3099271 L6.45873278,69.8613851 L7.09775376,91.4019758 L4.00221547,91.4019758 L0,67.4072851 L3.14698794,45.0992873 L16.620811,40.131134 L17.7681207,40.060718 L17.7681207,38.2042773 C15.1177599,36.9406405 13.2315793,33.6921535 13.2315793,29.8840604 C13.2315793,24.9775293 16.3628257,21 20.225414,21 C24.0880023,21 27.2192488,24.9775293 27.2192488,29.8840604 C27.2192488,33.5084778 25.5106323,36.6259702 23.0607524,38.0077375 L23.0607524,40.0878758 Z" id="Combined-Shape-Copy" fill="#00A8A8"></path>
+        </g>
+        <ellipse id="Oval-3-Copy" stroke="#F8E71C" stroke-width="4" cx="1576" cy="369.5" rx="120" ry="50.5"></ellipse>
+        <ellipse id="Oval-3-Copy-5" stroke="#F8E71C" stroke-width="4" cx="1616" cy="248.5" rx="120" ry="50.5"></ellipse>
+        <ellipse id="Oval-3-Copy-3" stroke="#F8E71C" stroke-width="4" cx="1577" cy="136.5" rx="120" ry="50.5"></ellipse>
+        <ellipse id="Oval-3-Copy-2" stroke="#F8E71C" stroke-width="4" cx="1314" cy="370.5" rx="120" ry="50.5"></ellipse>
+        <text id="知識を言語化-するには" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="3.636363" fill="#454545">
+            <tspan x="1244.09091" y="370">知識を言語化</tspan>
+            <tspan x="1267.72727" y="390">するには</tspan>
+        </text>
+        <text id="他者を巻き込んで-ものづくりする方法" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="2" fill="#454545">
+            <tspan x="1489.6" y="365">他者を巻き込んで</tspan>
+            <tspan x="1479" y="385">ものづくりする方</tspan>
+            <tspan x="1655" y="385">法</tspan>
+        </text>
+        <text id="主観と客観は-一致するか?" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="2" fill="#454545">
+            <tspan x="1550" y="244">主観と客観は</tspan>
+            <tspan x="1554.16" y="264">一致するか?</tspan>
+        </text>
+        <text id="ユーザー-視点とは?" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="2" fill="#454545">
+            <tspan x="1534.6" y="132">ユーザー</tspan>
+            <tspan x="1527.16" y="152" font-family="HiraginoSans-W7, Hiragino Sans" font-weight="bold">視点</tspan>
+            <tspan x="1571.16" y="152">とは?</tspan>
+        </text>
+        <text id="経験の中で-培ったスキル" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="3.636363" fill="#454545">
+            <tspan x="984.409093" y="288">経験の中で</tspan>
+            <tspan x="973.390911" y="308">培ったスキル</tspan>
+        </text>
+        <text id="共有-copy" font-family="HiraginoSans-W4, Hiragino Sans" font-size="20" font-weight="normal" letter-spacing="3.636363" fill="#454545">
+            <tspan x="1263.36364" y="498">共有</tspan>
+        </text>
+        <text id="デザインの場自体のデザイン-Design" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="3.636363" fill="#454545">
+            <tspan x="1506.66364" y="488">デザインの場自体のデザイン</tspan>
+            <tspan x="1505.35637" y="508">Design by themselves</tspan>
+        </text>
+    </g>
+</svg>
