@@ -1,0 +1,35 @@
+@keyframes text-track-in {
+  0% {
+    letter-spacing: 1.5rem;
+    opacity: 0;
+  }
+  60% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+    letter-spacing: 0.5rem;
+  }
+}
+
+@keyframes text-swing-in {
+  0% {
+    opacity: 0
+  }
+  100% {
+    opacity: 1
+  }
+}
+
+
+@keyframes fade-in {
+  0% {
+    opacity: 0
+  }
+  40% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1
+  }
+}

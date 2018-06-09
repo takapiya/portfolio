@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nuxt",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "PORT=8001 nuxt",
+    "dev_ip": "HOST=192.168.3.7 PORT=8001 nuxt",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:gh": "DEPLOY_ENV=GH_PAGES nuxt build",
+    "generate:gh": "DEPLOY_ENV=GH_PAGES nuxt generate"
   },
   "repository": {
     "type": "git",
@@ -20,10 +23,14 @@
   "devDependencies": {
     "node-sass": "^4.7.2",
     "nuxt-sass-resources-loader": "^1.2.0",
-    "sass-loader": "^6.0.7"
+    "sass-loader": "^6.0.7",
+    "vue-picture-swipe": "^0.4.0"
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "nuxt": "^1.4.0"
+    "contentful": "^6.1.0",
+    "nuxt": "^1.4.0",
+    "photoswipe": "^4.1.2",
+    "vue-markdown": "^2.2.4"
   }
 }

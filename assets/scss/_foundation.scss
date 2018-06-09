@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  font-size:14px;
+}
+html,body{
+  min-height: 100%;
+}
+body{
+  background: linear-gradient(#FFFFFF, #F9F9F9);
+  color:$color-text01;
+}
+a{
+  text-decoration:underline;
+  color:$color-text01;
+}
+img{
+  max-width: 100%;
+}
+
+
+.hidden{
+  display: none;
+}
