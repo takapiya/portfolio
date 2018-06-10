@@ -26,7 +26,7 @@
 
 <style media="screen" lang="scss" scoped>
 .hero{
-  padding: 4.5rem 0;
+  padding: 3.5rem 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -53,7 +53,10 @@
   &__name{
     animation: text-track-in 3s cubic-bezier(0.645, 0.045, 0.355, 1.000) 0.25s backwards;
     span{
-      display: inline;
+      display: inline-block;
+      &:last-child{
+        margin-left: 8px;
+      }
     }
   }
 
@@ -86,6 +89,7 @@
   .hero__name{
     span{
       display: block;
+      margin-left: 0;
     }
   }
 }

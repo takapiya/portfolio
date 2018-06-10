@@ -34,15 +34,27 @@
                 <dd><a href="https://twitter.com/taka_piya">taka_piya</a></dd>
               </div>
               <div>
-                <dt>Instagram</dt>
-                <dd><a href="https://www.instagram.com/taka_piya/">taka_piya</a></dd>
-              </div>
-              <div>
                 <dt>Facebook</dt>
                 <dd><a href="https://www.facebook.com/taka.piya">taka.piya</a></dd>
               </div>
+              <div>
+                <dt>Instagram</dt>
+                <dd><a href="https://www.instagram.com/taka_piya/">taka_piya</a></dd>
+              </div>
             </dl>
           </section>
+          
+          <section>
+          <SectionHeading>講義</SectionHeading>
+          <dl class="profile__experience">
+            <div>
+              <dt>2017/8</dt>
+              <dd>ヒューマン・インタフェース</dd>
+              <dd class="profile__position">公立はこだて未来大学 3学年向け</dd>
+            </div>
+          </dl>
+        </section>
+          
         </div>
       </div>
     </section>
@@ -54,14 +66,24 @@
         「<a href="https://sports.yahoo.co.jp/">スポーツナビ</a>」のデザインに携わる。
       </p>
       <p>
-        情報設計、ビジュアルデザイン、UIデザイン、フロントエンドコーディングなど考えるところから作るところまで、Web全般やる。
+        情報設計、ビジュアルデザイン、UIデザイン、フロントエンドコーディングなど考えるところから作るところまで、Web全般。
       </p>
-      <section>
+      <section class="mind__text">
         <SectionHeading>デザイン思想</SectionHeading>
         <p>
-          やってみてわかる
+          なんでもやってみることを信念に、幅広いデザインプロセスに携わってきました。
         </p>
-        <img src="~/assets/images/mind.svg">
+        <p>
+          大人数としてユーザーではなく、1人のデザインパートナーとしてデザインを実践することに興味があります。<br>
+          その活動の中で得られた知見にデザイナーとしての価値があると考え、それを個人としてだけではなく、<br>
+          チームとして力を結集することで1つのプロダクトをより良くすること、また、そのための場作りを行っていきたいと考えています。<br>
+        </p>
+        <p>
+          そのことがプロダクトだけではなく、引いてはブランディングの向上やビジネスにつながること、<br>
+          世の中を変えることにもつながっていくのではないかと思い、<br>
+          デザインの部分だけではなく、インハウスデザイナーたる理由であるビジネス視点を含めたデザインをしていきたいと考えています。
+        </p>
+        <img src="~/assets/images/mind.png">
       </section>
 
       <section class="mind__skill">
@@ -69,7 +91,9 @@
         <table class="mind__skillTable">
           <thead>
             <tr>
-              <th></th>
+              <th>キーワード</th>
+              <th>レベル</th>
+              <th>手法・ツール</th>
             </tr>
           </thead>
           <tbody>
@@ -110,13 +134,13 @@
               <th scope="row">インタフェース</th>
               <td>
                 <IonIcon name="star" class="ion-star--on"></IonIcon>
-                <IonIcon name="star" class="ion-star--off"></IonIcon>
+                <IonIcon name="star" class="ion-star--on"></IonIcon>
                 <IonIcon name="star" class="ion-star--off"></IonIcon>
               </td>
               <td>
                 <ul class="mind__skillList">
-                  <li>Illustrator</li>
                   <li>Sketch</li>
+                  <li>Illustrator</li>
                 </ul>
               </td>
             </tr>
@@ -145,7 +169,9 @@
               <td>
                 <ul class="mind__skillList">
                   <li>HTML5</li>
+                  <li>Pug</li>
                   <li>CSS3</li>
+                  <li>Sass</li>
                   <li>Javascript(ES6+)</li>
                   <li>Vue.js</li>
                   <li>Nuxt</li>
@@ -168,12 +194,8 @@
                 </ul>
               </td>
             </tr>
-
-
           </tbody>
         </table>
-
-
       </section>
 
     </section>
@@ -244,29 +266,40 @@
 }
 .mind{
   flex:1 0;
-
   p{
     font-size: 14px;
     line-height: 1.67;
+    letter-spacing: 1px;
+  }
+
+  &__text{
+    p + p{
+      margin-top: 0.5rem;
+    }
+    img{
+      margin-top: 2rem;
+    }
   }
 
   &__skill{
     &Table{
       width: 100%;
-      // table-layout: fixed;
 
       thead,tbody{
         font-size:0.75rem;
       }
+      tr{
+        border-bottom: 1px solid $color-ui01;
+      }
       th,td{
-        vertical-align: middle;
+        vertical-align: top;
       }
       th{
-        padding: 8px 0;
+        padding: 8px;
         text-align: left;
         color:$color-th;
-        font-weight: bold;
         letter-spacing: 2px;
+
       }
       td{
         padding: 8px;

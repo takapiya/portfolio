@@ -1,18 +1,18 @@
 <template>
   <ul class="snsList">
     <li class="snsList__item">
-      <a href="#">
+      <a href="https://twitter.com/taka_piya">
         <IonIcon name="social-twitter">Twitter</IonIcon>
       </a>
     </li>
     <li class="snsList__item">
-      <a href="#">
-        <IonIcon name="social-instagram-outline">Twitter</IonIcon>
+      <a href="https://www.facebook.com/taka.piya">
+        <IonIcon name="social-facebook">Facebook</IonIcon>
       </a>
     </li>
     <li class="snsList__item">
-      <a href="#">
-        <IonIcon name="social-facebook">Twitter</IonIcon>
+      <a href="https://www.instagram.com/taka_piya/">
+        <IonIcon name="social-instagram-outline">Instagram</IonIcon>
       </a>
     </li>
   </ul>

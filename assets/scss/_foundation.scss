@@ -11,7 +11,7 @@ body{
 }
 a{
   text-decoration:underline;
-  color:$color-text01;
+  color:$color-link;
 }
 img{
   max-width: 100%;
@@ -20,4 +20,12 @@ img{
 
 .hidden{
   display: none;
+}
+
+
+.page-enter-active, .page-leave-active {
+  transition: opacity .5s
+}
+.page-enter, .page-leave-active {
+  opacity: 0
 }

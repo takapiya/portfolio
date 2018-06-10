@@ -33,3 +33,22 @@
     opacity: 1
   }
 }
+
+
+@keyframes image-zoom-out {
+  0% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1.0);
+  }
+}
+
+@keyframes cover-slide-in {
+  0% {
+    left:-100%;
+  }
+  100% {
+    left:0%;
+  }
+}

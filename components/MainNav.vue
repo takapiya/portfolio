@@ -3,8 +3,8 @@
     <nav>
       <ul class="mainNav__list">
         <li class="mainNav__item">
-          <nuxt-link to="/">TOP</nuxt-link>
-          <span class="mainNav__description">トップ</span>
+          <nuxt-link to="/">INDEX</nuxt-link>
+          <span class="mainNav__description">作品一覧</span>
         </li>
         <li class="mainNav__item">
           <nuxt-link to="/about">ABOUT</nuxt-link>
@@ -33,7 +33,7 @@
   right: -110%;
   height: 100vh;
   z-index: 110;
-  padding: 10rem 5rem 0 0;
+  padding: 10rem 15rem 0 0;
   background: $color-ui01;
   transition: all 250ms cubic-bezier(0.785, 0.135, 0.15, 0.86);
 
@@ -69,4 +69,11 @@
   color: $color-key01!important;
   letter-spacing: 1px;
 }
+
+@media (max-width: 1064px) {
+  .mainNav{
+    padding: 10rem 5rem 0 0;
+  }
+}
+
 </style>

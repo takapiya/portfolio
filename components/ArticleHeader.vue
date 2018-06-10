@@ -27,6 +27,7 @@
       align-items:flex-end;
       justify-content: center;
       position: relative;
+      overflow: hidden;
       width:100%;
       height:70vh;
       margin-bottom: 2rem;
@@ -34,19 +35,21 @@
       &:before{
         position: absolute;
         content:"";
-        top:0;
+        /* top:0; */
         left:0;
         width: 100%;
         height: 100%;
-        background: rgba(#000010,0.2);
+        background: rgba(#000010,0.3);
         z-index: 1;
         transition: all 300ms ease-in-out;
+        animation: cover-slide-in 500ms ease-in-out 700ms backwards;
       }
       img{
         width: 100%;
         height: 70vh;
         -o-object-fit: cover;
         object-fit: cover;
+        animation: image-zoom-out 1200ms ease-in-out backwards;
       }
     }
     &Caption{
@@ -54,7 +57,8 @@
       bottom:40px;
       width: $size-container;
       z-index: 2;
-      box-shadow: 0 1 1 rgba(#000,0.5);
+      text-shadow: 0 0 5px rgba(#000,0.5);
+      animation: fade-in 300ms ease-in-out 1100ms backwards;
     }
     &Title{
       display: inline-block;

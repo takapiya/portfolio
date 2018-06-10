@@ -9,14 +9,6 @@
         <dt>E-MAIL</dt>
         <dd>mail [at] takapiya.com</dd>
       </div>
-      <div>
-        <dt>Twitter</dt>
-        <dd>taka_piya</dd>
-      </div>
-      <div>
-        <dt>Facebook</dt>
-        <dd>taka.piya</dd>
-      </div>
     </dl>
     <button class="stickyContact__close" @click="toggleContact()">
       <IonIcon name="close-round">閉じる</IonIcon>

@@ -12,7 +12,7 @@
 
 <style media="screen" lang="scss" scoped>
 .sectionHeading{
-  padding: 2.5rem 0 1rem;
+  padding: 3.5rem 0 1rem;
   font-weight: bold;
   letter-spacing: 0.125rem;
 

@@ -15,6 +15,7 @@
 
 
   export default{
+    middleware:"redirect",
     components:{
       Hero,
       WorksList,

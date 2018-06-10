@@ -1,39 +1,26 @@
 <template>
-  <article class="worksDetail">
+  <article class="worksDetail" v-if="$store.state.currentEntry">
     <ArticleHeader></ArticleHeader>
     <div class="worksDetail__body">
-      <dl class="worksDetail__description">
-        <dt>Category</dt>
-        <dd>
-          <ul class="worksDetail__tagList">
-            <li v-for="tag in $store.state.currentEntry.fields.tag">
-              <Tag>{{tag}}</Tag>
-            </li>
-          </ul>
-        </dd>
-        <dt>Period</dt>
-        <dd>{{$store.state.currentEntry.fields.year}}</dd>
-        <dt>URL</dt>
-        <dd>{{$store.state.currentEntry.fields.url}}</dd>
-      </dl>
-      <vue-markdown  class="worksDetail__text" :source="$store.state.currentEntry.fields.body"></vue-markdown>
+      <WorkDescription></WorkDescription>
+      <WorkText></WorkText>
     </div>
   </article>
 </template>
 
 <script>
-  import VueMarkdown from 'vue-markdown'
-
-  import Tag from '~/components/Tag'
-  import WorksList from '~/components/WorksList'
   import ArticleHeader from '~/components/ArticleHeader'
+  import WorksList from '~/components/WorksList'
+  import WorkDescription from '~/components/WorkDescription'
+  import WorkText from '~/components/WorkText'
   export default{
+    middleware: 'seekCurrentEntry',
     layout:"article",
     components:{
-      VueMarkdown,
-      Tag,
+      ArticleHeader,
       WorksList,
-      ArticleHeader
+      WorkDescription,
+      WorkText,
     },
   }
 </script>
@@ -45,30 +32,7 @@
     display: flex;
     width: $size-container;
     margin: 0 auto;
-  }
-
-  &__description{
-    flex:0 0 262px;
-    border-right: 1px solid $color-ui01;
-    dt{
-      font-weight: bold;
-      padding-bottom: 0.5rem;
-      &:not(:first-of-type){
-        padding-top:1.5rem;
-      }
-    }
-  }
-
-  &__tagList{
-    li{
-      margin-bottom: 4px;
-    }
-  }
-
-  &__text{
-    font-size: 14px;
-    margin-left: 3rem;
-    line-height: 2;
+    animation: fade-in 300ms ease-in-out 1100ms backwards;
   }
 }
 
@@ -96,6 +60,5 @@
       margin-left: 0;
     }
   }
-
 }
 </style>

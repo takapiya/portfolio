@@ -82,7 +82,7 @@ export default {
     }
     span {
       font-weight: bold;
-      // color: $color-key01;
+      color: $color-key01;
     }
   }
 

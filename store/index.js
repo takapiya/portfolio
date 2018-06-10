@@ -29,9 +29,7 @@ const mutations = {
 }
 
 const actions = {
-  async nuxtServerInit({dispatch},context) {
-    await dispatch('fetchWorks',context)
-  },
+
   toggleMenu({commit}, value) {
     commit('toggleMenu', value)
   },
@@ -50,7 +48,7 @@ const actions = {
       commit('setCurrentEntry',current[0])
     }
     else{
-      commit('setCurrentEntry',context.store.state.worksEntries[0])
+      commit('setCurrentEntry',null)
     }
   },
   async fetchWorks({commit,dispatch},context){
