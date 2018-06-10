@@ -112,8 +112,12 @@
 
 @media (max-width: 719px) {
   .works{
+    &__list{
+      margin:0;
+    }
     &__item{
       max-width: none;
+      padding: 0;
     }
   }
 }

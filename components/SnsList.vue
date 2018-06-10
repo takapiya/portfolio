@@ -12,7 +12,7 @@
     </li>
     <li class="snsList__item">
       <a href="#">
-        <IonIcon name="ios-book-outline">Twitter</IonIcon>
+        <IonIcon name="social-facebook">Twitter</IonIcon>
       </a>
     </li>
   </ul>
